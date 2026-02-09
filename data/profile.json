@@ -42,21 +42,12 @@
 
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Intermediário"
-    }
+  "languages": [
+    "Português (nativo)",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
   ],
-  "educacao": [
+  "education": [
     {
       "nome": "dio.me",
       "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
