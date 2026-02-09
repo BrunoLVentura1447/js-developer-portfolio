@@ -85,15 +85,22 @@
   ],
   "portfolio": [
     {
-      "nome": "Construindo uma Pokédex com JavaScript (DIO)",
-      "gitHub": "https://github.com/BrunoLVentura1447/Pokedex/tree/main",
-      "certificado": "https://hermes.dio.me/certificates/M9J7PBRZ.pdf"
+      "name": "Construindo uma Pokédex (DIO)",
+      "url": "https://github.com/BrunoLVentura1447/Pokedex/tree/main",
+      "certificado": "https://hermes.dio.me/certificates/M9J7PBRZ.pdf",
+      "gitHub": "true"
+    },
+    {
+      "name": "Construindo uma de portfólio (DIO)",
+      "url": "https://github.com/BrunoLVentura1447/js-developer-portfolio/tree/projeto-base",
+      "certificado": "https://hermes.dio.me/certificates/M9J7PBRZ.pdf",
+      "gitHub": "true"
     }
 
   ],
-  "experiencias": [
+  "experiences": [
     {
-      "nome": "Ajudante Geral ",
+      "name": "Ajudante Geral ",
       "descricao": "",
       "instituicao": "Mega Moto Brasil",
       "periodo": {
@@ -101,7 +108,7 @@
         "fim": "10/2025"
       }
     },{
-      "nome": "Assistente de atendimento ao condutor ",
+      "name": "Assistente de atendimento ao condutor ",
       "descricao": "",
       "instituicao": "Movida",
       "periodo": {
