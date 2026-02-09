@@ -100,21 +100,15 @@
   ],
   "experiences": [
     {
-      "name": "Ajudante Geral ",
-      "descricao": "",
-      "instituicao": "Mega Moto Brasil",
-      "periodo": {
-        "inicio": "03/2025",
-        "fim": "10/2025"
+      "name": "Ajudante Geral - Mega Moto Brasil",
+      "period": "03/2025 - 10/2025",
+      "description": "Atribuições: Usinagem, Montagem e desmontagem de Pedaleiras."
+      },
+    {
+      "name": "Assistente de atendimento ao condutor - Movida",
+      "period": "05/2024 - 12/2024",
+      "description": "Atribuições: Pacote Office e Sac; Atendimento pelos canais de WhatsApp,telefone e e-mail."
       }
-    },{
-      "name": "Assistente de atendimento ao condutor ",
-      "descricao": "",
-      "instituicao": "Movida",
-      "periodo": {
-        "inicio": "05/2024",
-        "fim": "12/2024"
-      }
-    }
+    
   ]
 }
