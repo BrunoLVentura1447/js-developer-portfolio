@@ -1,32 +1,40 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
+  "nome": "Bruno Luiz Ventura",
+  "titulo": "Desenvolvedor Junior",
   "localidade": {
-    "cidade": "Araraquara",
+    "cidade": "Poá",
     "estado": "São Paulo",
     "pais": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "telefone": "(11) 9 7854-0764",
+  "email": "brunoluizventura15@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
+        "nome": "Javascript",
         "logo": "TODO"
       },
       {
-        "nome": "Java",
+        "nome": "Python",
         "logo": "TODO"
       },
       {
-        "nome": "Kotlin",
+        "nome": "Node.js",
+        "logo": "TODO"
+      },
+      {
+        "nome": "Github",
         "logo": "TODO"
       }
     ],
     "softSkills": [
       "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Autodidata",
+      "Trabalho em equipe",
+      "Comprometimento com resultados",
+      "Resolução de problemas"
+
     ]
   },
   "idiomas": [
@@ -40,7 +48,7 @@
     },
     {
       "nome": "Espanhol",
-      "nivel": "Básico"
+      "nivel": "Intermediário"
     }
   ],
   "educacao": [
@@ -49,80 +57,60 @@
       "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
-        "inicio": "2019",
+        "inicio": "2025",
         "fim": "Atualmente"
       },
+      
       "certificados": [
         {
-          "nome": "Formação: Blockchain Specialist (25h)",
+          "nome": "Formação: JavaScript Developer (39h)",
           "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
         }
       ]
     },
     {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
+      "nome": "Análise e Desenvolvimento de Sistemas",
+      "descricao": "Estudo da área tecnóloga voltada para a criação, implementação, teste e manutenção de softwares e sistemas computacionais.",
       "instituicao": "Universidade de São Paulo (USP)",
       "periodo": {
-        "inicio": "2018",
+        "inicio": "2024",
         "fim": "Atualmente"
       }
     },
     {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
+      "nome": "Técnico em Desenvolvimento de Sistemas",
       "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
+      "instituicao": "Etec de Poá",
       "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
+        "inicio": "2021",
+        "fim": "2023"
       }
     }
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
-    },
-    {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "nome": "Construindo uma Pokédex com JavaScript (DIO)",
+      "gitHub": "https://github.com/BrunoLVentura1447/Pokedex/tree/main",
+      "certificado": "https://hermes.dio.me/certificates/M9J7PBRZ.pdf"
     }
+
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
+      "nome": "Ajudante Geral ",
       "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
+      "instituicao": "Mega Moto Brasil",
       "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+        "inicio": "03/2025",
+        "fim": "10/2025"
+      }
+    },{
+      "nome": "Assistente de atendimento ao condutor ",
+      "descricao": "",
+      "instituicao": "Movida",
+      "periodo": {
+        "inicio": "05/2024",
+        "fim": "12/2024"
       }
     }
   ]
