@@ -1,12 +1,9 @@
 {
-  "nome": "Bruno Luiz Ventura",
-  "titulo": "Desenvolvedor Junior",
-  "localidade": {
-    "cidade": "Poá",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(11) 9 7854-0764",
+  "name": "Bruno Luiz Ventura",
+  "photo": "https://avatars.githubusercontent.com/u/156997028?v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "São Paulo - SP",
+  "phone": "(11) 9 7854-0764",
   "email": "brunoluizventura15@gmail.com",
   "skills": {
     "hardSkills": [
