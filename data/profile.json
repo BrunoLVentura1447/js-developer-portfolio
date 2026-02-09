@@ -9,19 +9,27 @@
     "hardSkills": [
       {
         "nome": "Javascript",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "nome": "Python",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/python.png"
       },
       {
         "nome": "Node.js",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/nodejs.png"
       },
       {
         "nome": "Github",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+      },
+      {
+        "nome": "HTML",
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+      },
+      {
+        "nome": "CSS",
+        "logo": "https://raw.githubusercontent.com/BrunoLVentura1447/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
