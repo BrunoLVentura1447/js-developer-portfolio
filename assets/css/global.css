@@ -24,15 +24,29 @@ a:hover {
 
 .main {
     margin: 1rem;
-    padding: 1rem;
+    padding: 2rem;
     border: 1px solid #fff;
-    border-radius: 1rem;
+    border-radius: 2rem;
 }
 
-.main::before,
-.main::after {
+.main::before {
     content: '';
     background-image: url('/assets/img/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 140vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+
+.main::after {
+    content: '';
+    background-image: url('/assets/img/background2.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -56,12 +70,11 @@ a:hover {
 
 @media only screen and (min-width: 768px) {
     .main {
-        max-width: 1024px;
+        max-width: 1324px;
         margin: 1rem auto;
     }
-
+}
     .main::before,
     .main::after {
         width: 70vw;
     }
-}

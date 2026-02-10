@@ -70,6 +70,7 @@ function updateEducation(profileData) {
     education.innerHTML = profileData.education.map(education => {
         return `<li>
                         <h3 class="title">${education.name}</h3>
+                        <p class="institute">${education.institute}</p>
                         <p class="period">${education.period}</p>
                         <p>${education.description}</p>
                     </li>`
