@@ -39,7 +39,6 @@
       "Trabalho em equipe",
       "Comprometimento com resultados",
       "Resolução de problemas"
-
     ]
   },
   "languages": [
@@ -49,38 +48,22 @@
   ],
   "education": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2025",
-        "fim": "Atualmente"
-      },
-      
-      "certificados": [
-        {
-          "nome": "Formação: JavaScript Developer (39h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        }
-      ]
+      "name": "Análise e Desenvolvimento de Sistemas",
+      "description": "Estudo da área tecnóloga voltada para a criação, implementação, teste e manutenção de softwares e sistemas computacionais.",
+      "institute": "Faculdade das Americas (FAM)",
+      "period": "2025 - Atualmente"
     },
     {
-      "nome": "Análise e Desenvolvimento de Sistemas",
-      "descricao": "Estudo da área tecnóloga voltada para a criação, implementação, teste e manutenção de softwares e sistemas computacionais.",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2024",
-        "fim": "Atualmente"
-      }
+      "name": "dio.me",
+      "description": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "institute": "Digital Innovation One (DIO)",
+      "period": "2026 - Atualmente"
     },
     {
-      "nome": "Técnico em Desenvolvimento de Sistemas",
-      "descricao": "",
-      "instituicao": "Etec de Poá",
-      "periodo": {
-        "inicio": "2021",
-        "fim": "2023"
-      }
+      "name": "Técnico em Desenvolvimento de Sistemas",
+      "description": "Estudo da área tecnóloga voltada para a criação e manutenção de softwares.",
+      "institute": "Etec de Poá",
+      "period": "2021 - 2023"
     }
   ],
   "portfolio": [
@@ -96,7 +79,6 @@
       "certificado": "https://hermes.dio.me/certificates/M9J7PBRZ.pdf",
       "github": "true"
     }
-
   ],
   "professionalExperience": [
     {
@@ -109,6 +91,5 @@
       "period": "05/2024 - 12/2024",
       "description": "Atribuições: Pacote Office e Sac, Atendimento pelos canais de WhatsApp,telefone e e-mail."
     }
-    
   ]
 }
